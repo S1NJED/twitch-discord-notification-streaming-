@@ -6,6 +6,7 @@ To add, delete streamers in the list use add_streamers.py
 
 Prequerisite:
   
+  - pip install -r requirements.txt
   - Client-id, Client-secret that you will get when creating an application on the twitch API website.
   - a discord webhook url
   You will need to edit twitch.py and paste all the informations in the constructor. Have fun ^^
